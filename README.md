@@ -13,7 +13,7 @@
 </p>
 <a href="https://github.com/MendingTuruu"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/MendingTuruu"><img src="https://cardivo.vercel.app/api?name=AnonyMe&description=Hi,%20Im%20Anonyme%20Creator%20and%20i%20love%20programming%20python&image=Profile.jpeg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=AnonyMeCreator&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/MendingTuruu"><img src="https://cardivo.vercel.app/api?name=AnonyMe&description=Hi,%20Im%20Anonyme%20Creator%20and%20i%20love%20programming%20python&image=&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=AnonyMeCreator&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <details open>
